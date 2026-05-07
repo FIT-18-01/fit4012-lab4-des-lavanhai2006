@@ -1,0 +1,5 @@
+[PASS] test_des_sample
+[PASS] test_encrypt_decrypt_roundtrip
+[PASS] test_multiblock_padding
+[PASS] test_tamper_negative
+[PASS] test_wrong_key_negative
